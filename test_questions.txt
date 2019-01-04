@@ -1,0 +1,9 @@
+Final test By Nathan Broadbent
+Data Types
+What Data Type Is made up of letter characters
+String
+Integer
+Boolean
+Float
+1
+A string is made of letter characters that can be formed together
