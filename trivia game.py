@@ -50,7 +50,7 @@ def main():
         print(question)
         for i in range(4):
             print(i+1,answers[i])
-        user=input("which answer is it answer with the numbers in front numbers")
+        user=input("which answer is it answer with the numbers in front")
         if user==correct:
             print("congratulations you got it correct")
             score+=1

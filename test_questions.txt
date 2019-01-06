@@ -7,3 +7,75 @@ Boolean
 Float
 1
 A string is made of letter characters that can be formed together
+Outputs
+What does the print() statement do in a program
+takes input from the user and saves it to a variable
+outputs only strings that are passed into it
+oututs anything put into the parenthises
+N-A
+3
+The print statement will print out anything that is put into it/ if you put it in correctly
+functions
+How would you define a function in python
+def function_name
+def function name()
+def function_name():
+function_name:
+3
+a function is defined by placing def at the beginning and(): at the end
+Loops
+What type of loop will run forever unless you stop it
+While
+For
+N-A
+N-A
+1
+A while loop is meant to run forever until something stops it/mostly a break
+Loops
+What type of loop will run for a certain amount of loops
+While
+For
+N-A
+N-A
+2
+A for loop takes a condition on how long to run/that you supply at the beggining of the loop
+Data Types
+What Data Type deals with whole numbers
+Float
+Boolean
+Integer
+String
+3
+Integer is the data type for whole numbers/ while floats also deal with numbers they have decimals
+Indexing
+if word = "penguin"what would/word[1] be equal to
+p
+e
+n
+P
+2
+while the index is one the actual position of it is the second letter
+lists and tuples
+how do you define a list
+list=[]
+list=()
+N-A
+N-A
+1
+a list is defined by square brackets 
+lists and tuples
+how do you define a tuple
+list=[]
+list=()
+N-A
+N-A
+2
+a tuple is defined by parenthesis
+lists
+What data types can be added to lists
+all
+only strings
+only integers
+booleans
+1
+any Data Type can be added to list and they don't need to be the same  
